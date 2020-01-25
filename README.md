@@ -1,0 +1,1 @@
+This script removes the vpsguard script, that allows access to ruvds.com server from the hosting panel
